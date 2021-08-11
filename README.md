@@ -4,7 +4,7 @@ Tkinter is a Python binding to the Tk GUI toolkit.
 To know more about it: https://docs.python.org/3/library/tkinter.html
 
 - I used Tkinter to make a Color Game:- CG Pro
-![image](https://user-images.githubusercontent.com/77614377/129097187-b554c560-5157-4377-84e6-fa6368eca3bc.png)
+  ![image](https://user-images.githubusercontent.com/77614377/129097187-b554c560-5157-4377-84e6-fa6368eca3bc.png)
 
 - It can take the name of the player as an input, and display a Welcome Message.
 ![image](https://user-images.githubusercontent.com/77614377/129097202-af6c7b0a-0e7e-41e2-a848-e25232f41472.png)
